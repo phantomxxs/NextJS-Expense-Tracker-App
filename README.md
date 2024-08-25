@@ -2,7 +2,7 @@
 
 Application for tracking income and expenses. It uses Next.js with [Neon](https://fyi.neon.tech) to persist data and [Clerk](https://go.clerk.com) for authentication.
 
-[Try Demo]()
+[Try Demo](https://next-js-expense-tracker-3y2bnp9uq-sharons-projects-e5bb4396.vercel.app/)
 
 <div style="text-align:center;margin:30px auto;">
   <img src="public/demo.png" alt="" width="500" style="margin: 0 auto;" />
